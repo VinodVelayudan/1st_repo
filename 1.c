@@ -2,6 +2,6 @@
 #include<stdlib.h>
 int main()
 {
-printf("JAI sri ram");
+printf("Vinyu loves vinod");
 return 0;
 }
