@@ -1,2 +1,2 @@
-# 1st-repositoryt
+# 1st-repository
 simple program to print Jai sri ram
